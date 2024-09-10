@@ -1,0 +1,246 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+body {
+    font-family: "Chakra Petch", sans-serif; 
+    background: linear-gradient(rgba(0, 0, 0, 0.973), rgba(0, 0, 0, 0.5)),
+    url('https://www.gamewallpapers.com/img_script/wallpaper_dir/img.php?src=wallpaper_league_of_legends_137_2560x1080.jpg&height=506&sharpen');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center; 
+    min-height: 100vh; 
+    margin: 0; 
+    padding: 0 1rem; 
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 40px; 
+    color: #f7f7f7; 
+    text-align: center; 
+    letter-spacing: 0.4rem; 
+    margin-bottom: 2rem;
+}
+
+section {
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    margin-bottom: 3rem; 
+    width: 100%;
+    max-width: 60rem;
+}
+
+section input {
+    background: #240c2e4b;
+    width: 300px;
+    max-width: 30rem; 
+    border: none; 
+    padding: 1rem; 
+    border-radius: 1.5rem; 
+    margin-bottom: 1rem; 
+    margin-left: -80px;
+    color: #747474; 
+    font-size: 1rem; 
+    text-align: center;
+    box-sizing: border-box; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.911);
+}
+
+section input:focus {
+    color: #747474; 
+    outline: none; 
+}
+
+section input::placeholder {
+    color: #747474; 
+}
+
+section button {
+    margin-left: 350px;
+    margin-top: -65px;
+    padding: 0.8rem 1.2rem; 
+    border: none; 
+    border-radius: 1.5rem; 
+    background-color: #51305e; 
+    color: #F5F7F8; 
+    font-size: 1rem; 
+    cursor: pointer; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.651);
+}
+
+section button:hover {
+    background-color: #240c2e; 
+   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.651); 
+}
+
+.resultados-pesquisa {
+    color: #d4d4d4;
+    width: 100%;
+    max-width: 60rem; 
+    height: 46vh; 
+     margin-top: 1rem; 
+    padding: 1rem; 
+    border-radius: 0.6rem; 
+    box-sizing: none;
+}
+
+.item-resultado {
+    border-radius: 0.6rem; 
+    padding: 10px; 
+    width: 550px;
+    height: 550px;
+    margin-bottom: 1rem; 
+    box-shadow: 0px 2px 4px 5px rgba(252, 252, 252, 0.1); 
+    backdrop-filter: blur(10px); 
+    -webkit-backdrop-filter: blur(10px); 
+    border: 1px solid rgba(255, 255, 255, 0.2);
+   
+}
+
+.item-resultado h2 {
+    font-size: 24px; 
+    color: #dfdfdf; 
+    text-align: center;
+}
+
+.item-resultado a {
+    text-decoration: none; 
+    color: #ffffff; 
+}
+
+.item-resultado a:hover {
+    text-decoration: underline; 
+}
+
+.descricao-meta {
+    color: #dfdfdf; 
+    margin: 20px; 
+margin-top: -150px;
+margin-left: 100px;
+padding: 10px;
+text-align: center;
+overflow-y: auto;
+}
+
+.itens {
+    margin-top: 60px;
+    text-align: center;
+
+}
+
+.item-imagem {
+    width: 30px; 
+    height: 30px; 
+    margin-right: 10px;
+    padding: 0;
+}
+
+.itens-imagens {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.imagem-personagem {
+    width: 100px; 
+    height: 150px;
+    border-radius: 5px 20px 0px; 
+    border: 1px solid #ffffff2f; 
+    box-shadow: 0 4px 8px rgba(240, 240, 240, 0.2); 
+    margin-bottom: 10px; 
+}
+
+footer {
+    background-color: #000000be;
+    color: #45474B;
+    text-align: center;
+    padding: 5px; 
+    max-width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    font-size: 1rem;
+}
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: 2rem; 
+        letter-spacing: 0.2rem; 
+    }
+
+    section input {
+        width: 100%; 
+        max-width: 25rem; 
+        padding: 0.8rem; 
+    }
+
+    
+
+    .resultados-pesquisa {
+        width: 100%;
+        max-width: 40rem; 
+        height: 40vh;
+    }
+
+    .item-resultado h2 {
+        font-size: 1.3rem; 
+    }
+}
+
+@media (max-width: 480px) {
+    h1 {
+        font-size: 1.8rem; 
+        letter-spacing: 0.1rem; 
+    }
+
+   
+
+    section button {
+        padding: 0.6rem 1rem; 
+        font-size: 0.9rem; 
+    }
+
+    .resultados-pesquisa {
+        width: 90%; 
+        height: 50vh;
+    }
+
+    .item-resultado h2 {
+        font-size: 1.1rem; 
+    }
+
+
+    .descricao-meta{
+        margin: 0; 
+margin-top: auto;
+text-align: center;
+
+    }
+
+    footer {
+        font-size: 0.9rem; 
+    }
+}
+
+
+
+
+
+
+
+#playMusicBtn {
+    padding: 1rem 2rem;
+    font-size: 1.2rem;
+    background-color: #240c2e;
+    color: white;
+    border: none;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.7);
+}
