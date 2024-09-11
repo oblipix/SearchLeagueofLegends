@@ -13,7 +13,7 @@ https://github.com/user-attachments/assets/da724c91-08c3-4567-be33-8c4783ed6d09
 
 
 
-_Deploy⤵️:
+   _Deploy_:
  https://searcheagueofegends.vercel.app/
 
 
