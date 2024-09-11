@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/da724c91-08c3-4567-be33-8c4783ed6d09
 
 
    _Deploy_:
- https://searcheagueofegends.vercel.app/
+ https://searcheagueoflegends.vercel.app/
 
 
 
