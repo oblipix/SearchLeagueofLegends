@@ -232,15 +232,3 @@ text-align: center;
 
 
 
-
-
-#playMusicBtn {
-    padding: 1rem 2rem;
-    font-size: 1.2rem;
-    background-color: #240c2e;
-    color: white;
-    border: none;
-    border-radius: 0.5rem;
-    cursor: pointer;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.7);
-}
