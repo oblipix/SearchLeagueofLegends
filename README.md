@@ -17,42 +17,23 @@ https://github.com/user-attachments/assets/da724c91-08c3-4567-be33-8c4783ed6d09
  https://searcheagueoflegends.vercel.app/
 
 
+## Search League of Legends
+
+*Descrição*
+
+O Search League of Legends é uma aplicação web desenvolvida para permitir que os usuários pesquisem informações sobre campeões, runas, e estatísticas do popular 
+jogo League of Legends. A aplicação fornece uma interface intuitiva para explorar dados relevantes e aprimorar a experiência dos jogadores.
+
+*Funcionalidades*
+
+▪️Busca por Campeões: Os usuários podem procurar campeões por nome e obter informações detalhadas sobre suas habilidades e características.
 
 
-# Como Clonar este Repositório
-
->
-### Pré-requisitos:
-
-
-> Ter o Git instalado no seu computador.
-> Se ainda não tiver, baixe e instale o Git.
->
-> Uma conta no GitHub (opcional, mas recomendado).
->
-><img src="https://img.shields.io/badge/-Forks-lightgrey?logo=github&logoColor=white&style=social" alt="Forks Icon"/>
-Faça um Fork do repositório, assim nada será alterado do repositório original.
-
-
-
-**Vamos clonar este repositório passo a passo.**
-
-_Obtenha a URL do repositório:_
-
-`URL do repositório: https://github.com/oblipix/SearchLeagueofLegends.git`
+▪️Runas A aplicação permite que os usuários visualizem runas recomendadas para cada campeão.
 
 
 
 
-navegue até a pasta onde deseja clonar.
-
-
-**Clone o repositório:**
-
-`git clone https://github.com/oblipix/SearchLeagueofLegends.git`
-
-
-<sub> Agora você tem uma cópia local do repositório que pode ser modificada conforme necessário. </sub>
 
 
 
