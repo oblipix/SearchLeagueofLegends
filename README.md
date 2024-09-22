@@ -31,7 +31,8 @@ https://github.com/user-attachments/assets/da724c91-08c3-4567-be33-8c4783ed6d09
 > Uma conta no GitHub (opcional, mas recomendado).
 >
 > ⚠️ Faça um Fork do repositório, assim nada será alterado do repositório original.
-
+![GitHub forks](https://img.shields.io/github/forks/:user/:repo)
+ 
 
 
 **Vamos clonar este repositório passo a passo.**
