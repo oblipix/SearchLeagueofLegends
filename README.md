@@ -26,10 +26,10 @@ jogo League of Legends. A aplicação fornece uma interface intuitiva para explo
 
 **Funcionalidades**
 
-◾ Busca por Campeões Os usuários podem procurar campeões por nome e obter informações detalhadas sobre suas habilidades e características.
+◾ Busca por Campeões: Os usuários podem procurar campeões por nome e obter informações detalhadas sobre suas habilidades e características.
 
 
-◾ Runas A aplicação permite que os usuários visualizem runas recomendadas para cada campeão.
+◾ Runas: A aplicação permite que os usuários visualizem runas recomendadas para cada campeão.
 
 
 
@@ -43,8 +43,11 @@ jogo League of Legends. A aplicação fornece uma interface intuitiva para explo
 ## Como Clonar este Repositório
 
 
-> [!IMPORTANT]
-> ### Pré-requisitos:
+
+
+### Pré-requisitos:
+
+>  [!IMPORTANT]
 >  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Logo" width="20"/> Ter o Git instalado no seu computador. Se ainda não tiver, baixe e instale o Git.
 >
 > 
@@ -58,29 +61,30 @@ jogo League of Legends. A aplicação fornece uma interface intuitiva para explo
 >
 > 
 >
->
->
->  ### Vamos clonar este repositório passo a passo. 
->
-> 
->
->_Obtenha a URL do repositório:_
->
->` https://github.com/oblipix/SearchLeagueofLegends.git `
->
->
->
->
->navegue até a pasta onde deseja clonar.
->
->
->**Clone o repositório:**
->
->`git clone https://github.com/oblipix/SearchLeagueofLegends.git`
->
->
-><sub> Agora você tem uma cópia local do repositório que pode ser modificada conforme necessário. </sub>
->
+
+
+
+
+  ### Vamos clonar este repositório passo a passo. 
+
+_Obtenha a URL do repositório:_
+
+` https://github.com/oblipix/SearchLeagueofLegends.git `
+
+
+
+
+navegue até a pasta onde deseja clonar.
+
+
+
+**Clone o repositório:**
+
+`git clone https://github.com/oblipix/SearchLeagueofLegends.git`
+
+
+<sub> Agora você tem uma cópia local do repositório que pode ser modificada conforme necessário. </sub>
+
 
 
 
