@@ -13,9 +13,7 @@ https://github.com/user-attachments/assets/da724c91-08c3-4567-be33-8c4783ed6d09
 
 
 
-   _Deploy_:
- https://searcheagueoflegends.vercel.app/
-
+ 
 
 ## Search League of Legends
 
@@ -33,6 +31,8 @@ jogo League of Legends. A aplicação fornece uma interface intuitiva para explo
 
 
 
+**Deploy:**
+ https://searcheagueoflegends.vercel.app/
 
 
 
@@ -79,8 +79,9 @@ navegue até a pasta onde deseja clonar.
 
 
 **Clone o repositório:**
-
-`git clone https://github.com/oblipix/SearchLeagueofLegends.git`
+```diff
+git clone https://github.com/oblipix/SearchLeagueofLegends.git
+```
 
 
 <sub> Agora você tem uma cópia local do repositório que pode ser modificada conforme necessário. </sub>
