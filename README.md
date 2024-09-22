@@ -30,7 +30,9 @@ https://github.com/user-attachments/assets/da724c91-08c3-4567-be33-8c4783ed6d09
 >
 > Uma conta no GitHub (opcional, mas recomendado).
 >
-> ![GitHub forks] Faça um Fork do repositório, assim nada será alterado do repositório original.
+> .. image:: https://img.shields.io/github/forks/:user/:repo
+   :alt: GitHub forks
+Faça um Fork do repositório, assim nada será alterado do repositório original.
 
  
 
