@@ -39,7 +39,6 @@ jogo League of Legends. A aplicação fornece uma interface intuitiva para explo
 
 
 
-
 ## Como Clonar este Repositório
 
 
